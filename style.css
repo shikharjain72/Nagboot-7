@@ -1,0 +1,41 @@
+body{
+    /* background-image: url("images/ismart-shankar_156195627930.jpeg");
+    background-repeat: no-repeat;
+    background-size: cover; */
+
+    font-weight: 900;
+
+}
+section{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 50%;
+}
+#form{
+    display: flex;
+    justify-content: center;
+    align-items: flex-end;
+}
+#city_country{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+#date_time{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+#temp{
+    display: flex;
+    justify-content: center;
+}
+#weather{
+    display: flex;
+    justify-content: center;
+}
+#min_max_temp{
+    display: flex;
+    justify-content: center;
+}
